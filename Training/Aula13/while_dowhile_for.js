@@ -10,7 +10,7 @@ console.log('--------------')
 do {
  console.log('tudo bem?')
  c--
-}while (c>=1)
+}while (c>1)
 
 
 console.log('--------------')
