@@ -17,6 +17,11 @@ section {
     box-shadow: 4px 3px 10px rgba(0, 0, 0, 0.384);
 }
 
+select#flista { 
+width: 150px;
+
+} 
+
 
 footer {
     color: white;
