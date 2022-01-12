@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open ex018.html",
+            "file": "c:\\Users\\igor.malta\\OneDrive - PSP INTERMEDIACAO DE SERVICOS LTDA\\Documentos\\JavaScript\\JavaScript\\Training\\Aula15\\ex018.js\\ex018.html"
+        }
+    ]
+}
